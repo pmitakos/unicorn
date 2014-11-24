@@ -28,7 +28,7 @@ height: auto !important;
 min-height: 100%;
 padding-bottom: 15px;
 position: relative;
-background: #f4bad8 url(containerBg.gif) bottom left repeat-x fixed;
+background: #fff url(containerBg.gif) bottom left repeat-x fixed;
 }
 
 * html #container {
@@ -112,7 +112,7 @@ position: static;
 position: absolute;
 top: 50%;
 padding-left: 250px;
-color: #44434c;
+color: #fff;
 }
 
 #siteDescription[id] {
@@ -140,7 +140,7 @@ list-style-image: url(arrow.gif);
 
 #main {
 margin: 0 20px;
-width: 430px;
+width: 100%;
 float: right;
 }
 
